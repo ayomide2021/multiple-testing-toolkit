@@ -48,3 +48,15 @@ print(results)
 ## 📊 Example Output
 
 <img width="723" height="266" alt="image" src="https://github.com/user-attachments/assets/dd15306a-5878-4ccf-9ed3-1b25f49585af" />
+
+
+## 📈 Visualisation
+from fdr_toolkit.visualization import plot_bh
+
+plot_bh(p_vals)
+
+This produces a plot where:
+
+- Points = sorted p-values
+- Line = BH threshold
+- ✅ Values below the line → rejected
