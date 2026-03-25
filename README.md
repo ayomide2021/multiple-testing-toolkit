@@ -35,7 +35,7 @@ This toolkit implements:
 - Best for high-risk decisions
 
 
-⚡ Quick Start
+## ⚡ Quick Start
 from fdr_toolkit.fdr import benjamini_hochberg
 
 p_vals = [0.12, 0.03, 0.001, 0.20, 0.04,
