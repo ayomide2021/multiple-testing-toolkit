@@ -35,6 +35,10 @@ This toolkit implements:
 - Best for high-risk decisions
 
 
+## Methods Included
+<img width="578" height="206" alt="image" src="https://github.com/user-attachments/assets/629f3029-415f-4c68-8279-ccd6baad6235" />
+
+
 ## ⚡ Quick Start
 from fdr_toolkit.fdr import benjamini_hochberg
 
