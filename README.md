@@ -24,12 +24,12 @@ This leads to misleading conclusions in:
 
 This toolkit implements:
 
-✅ ** Benjamini–Hochberg (FDR) **
+✅ **Benjamini–Hochberg (FDR)**
 - Controls the False Discovery Rate
 - More powerful (finds more true signals)
 - Ideal for data science & experimentation
 
-✅ ** Bonferroni Correction **
+✅ **Bonferroni Correction**
 - Controls Family-Wise Error Rate (FWER)
 - Very strict (minimises false positives)
 - Best for high-risk decisions
