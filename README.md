@@ -73,13 +73,13 @@ This produces a plot where:
 - CLI tool for quick analysis
 
 
-## ⭐ Why This Project Matters
+## ⭐Rationale
 
 This project demonstrates:
 
 - Translating statistical theory → real-world code
 - Understanding of multiple testing problems
-- Ability to build reusable data science tools
+- Opportunity to build reusable data science tools
 
 ## 📬 Feedback & Contributions
 
